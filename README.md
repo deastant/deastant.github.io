@@ -1,2 +1,2 @@
 # deastant.github.io
-[link](politics/moldbug.md)
+[link](docs/politics/moldbug.md)
